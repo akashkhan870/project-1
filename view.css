@@ -1,0 +1,70 @@
+.information {
+	margin-left: 40px;
+	background-color: gray;
+	color: black;
+	display: inline-block;
+  margin-bottom: 25px;
+}
+.allnm {
+	margin-left: 36px;
+}
+.education{
+  margin-left: 40px;
+	background-color: gray;
+	color: black;
+	display: inline-block;
+  margin-bottom: 25px;
+}
+.diploma {
+	margin-left: 40px;
+	background-color: gray;
+	color: black;
+	display: table;
+  margin-bottom: 25px;
+}
+li{
+  list-style: none;
+}
+.secondary{
+  margin-left: 40px;
+	background-color: gray;
+	color: black;
+	display: inline-block;
+  margin-bottom: 15px;
+}
+.about{
+  margin-left: 40px;
+	background-color: gray;
+	color: black;
+	display: inline-block;
+  margin-bottom: 35px;
+}
+.informationmy{
+  margin-left: 36px;
+}
+.gender{
+  margin: 40px;
+	background-color: gray;
+	color: black;
+	display: inline-block;
+}
+.profession {
+	margin-left: 40px;
+	background-color: gray;
+	color: black;
+	display: table;
+}
+.stdn{
+  margin-left: 36px;
+}
+
+ .skill {
+    margin-left: 40px;
+    background-color: gray;
+    color: black;
+    display: table;
+    margin-top: 30px;
+  }
+  .html{
+    margin-left: 36px;
+  }
